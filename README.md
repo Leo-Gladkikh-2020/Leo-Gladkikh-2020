@@ -6,14 +6,17 @@
 - 👨🏻‍🎓 Учусь в Яндекс Практикуме на курсе Frontend разработчик
 - 🖥 Хочу создавать современные, удобные сайты и приложения, которые не будут терять своей актуальности и которыми будут пользоваться большое количество людей
 
-**Мой стек**
+### Основной стек и технологии:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+<img src="images/html.svg" height="45" title="HTML5" alt="HTML5">&nbsp;
+<img src="images/css.svg" height="45" title="CSS3" alt="CSS3">&nbsp;&nbsp;
+<img src="images/javascript.svg" height="45" title="JavaScript" alt="JavaScript">&nbsp;&nbsp;
+<img src="images/react.svg" height="45" title="React" alt="React">&nbsp;&nbsp;
+<img src="images/nodejs.svg" height="45" title="NodeJS" alt="NodeJS">&nbsp;&nbsp;
+<img src="images/expressjs.svg" height="45" title="ExpressJS" alt="ExpressJS">&nbsp;&nbsp;
+<img src="images/mongodb.svg" height="45" title="MongoDB" alt="MongoDB">&nbsp;&nbsp;
+<img src="images/npm.svg" height="45" title="NPM" alt="NPM">&nbsp;&nbsp;
+<img src="images/git.svg" height="45" title="Git" alt="Git">&nbsp;&nbsp;
+<img src="images/figma.svg" height="45" title="Figma" alt="Figma">&nbsp;&nbsp;
+<img src="images/vscode.svg" height="45" title="VScode" alt="VScode">&nbsp;&nbsp;
+<img src="images/webstorm.svg" height="45" title="WebStorm" alt="WebStorm">
